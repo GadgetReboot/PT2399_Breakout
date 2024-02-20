@@ -1,5 +1,5 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
-"G***","LOGO","pcb way logo",-24.200000,60.500000,180.000000,bottom
+"G***","LOGO","pcb way logo",24.200000,60.500000,180.000000,bottom
 "C1","3n9","C_Disc_D3.8mm_W2.6mm_P2.50mm",2.600000,38.400000,0.000000,top
 "C2","4u7","CP_Radial_D5.0mm_P2.50mm",13.100000,11.650000,-90.000000,top
 "C3","4u7","CP_Radial_D5.0mm_P2.50mm",3.350000,43.050000,0.000000,top
@@ -19,7 +19,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "C17","47uF","CP_Radial_D5.0mm_P2.50mm",37.950000,15.800000,0.000000,top
 "C18","100nF","C_Disc_D3.8mm_W2.6mm_P2.50mm",31.200000,14.050000,90.000000,top
 "C19","100nF","C_Disc_D3.8mm_W2.6mm_P2.50mm",34.350000,14.050000,90.000000,top
-"C20","4.7uF","CP_Radial_D5.0mm_P2.50mm",35.650000,33.800000,0.000000,top
+"C20","4.7uF","CP_Radial_D5.0mm_P2.50mm",36.050000,35.850000,-90.000000,top
 "D1","1N4148","Diode_DO-35_P10mm",46.550000,25.100000,180.000000,top
 "J1","Conn_01x02","PinHeader_1x02_P2.54mm_Vertical",23.909000,1.500000,90.000000,top
 "J2","Conn_01x04","PinHeader_1x04_P2.54mm_Vertical",11.209000,1.500000,90.000000,top
@@ -45,5 +45,6 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R15","2K","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",44.100000,42.650000,-90.000000,top
 "R16","1K","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",46.650000,28.900000,180.000000,top
 "R17","15K","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",47.450000,11.850000,-90.000000,top
+"R18","1K","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",41.000000,42.650000,-90.000000,top
 "U1","LM7805_TO220","TO-220-3_Vertical",5.150000,14.800000,90.000000,top
 "U2","PT2399","DIP-16_W7.62mm_Socket_LongPads",15.950000,19.100000,90.000000,top
